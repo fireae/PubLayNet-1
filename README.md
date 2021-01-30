@@ -23,7 +23,9 @@ PubLayNet is a large dataset of document images, of which the layout is annotate
 
 | Architecture  | Iter num (x16) | AP | AP50 | AP75 | AP Small | AP Medium | AP Large | MD5SUM |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [MaskRCNN-Resnet50-FPN](https://drive.google.com/file/d/1Jx2m_2I1d9PYzFRQ4gl82xQa-G7Vsnsl/view?usp=sharing)  | 196k  | 0.91| 0.98 | 0.96 | 0.41 | 0.76 | 0.95 | 393e6700095a673065fcecf5e8f264f7 |
+| [MaskRCNN-Resnet50-FPN](https://drive.google.com/file/d/1Jx2m_2I1d9PYzFRQ4gl82xQa-G7Vsnsl/view?usp=sharing)  链接：https://pan.baidu.com/s/18RuBvj1sEmS8kw3pju9xEw 
+提取码：519x 
+ | 196k  | 0.91| 0.98 | 0.96 | 0.41 | 0.76 | 0.95 | 393e6700095a673065fcecf5e8f264f7 |
 
 
 ## Demo
